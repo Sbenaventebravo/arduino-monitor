@@ -4,7 +4,7 @@ import React from 'react';
 function App() {
   return (
     <div className="container">
-      <h2>Maqueta monitoreo arduinos</h2>
+      <h1>Maqueta monitoreo arduinos</h1>
     </div>
   );
 }
