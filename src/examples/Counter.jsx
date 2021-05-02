@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-const ComponentOne = () => {
+const Counter = () => {
     const [number, setNumber] = useState(0);
 
     const Add = () => {
@@ -25,4 +25,4 @@ const ComponentOne = () => {
     );
 }
 
-export default ComponentOne;
+export default Counter;
